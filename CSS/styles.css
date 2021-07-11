@@ -1,0 +1,16 @@
+nav{
+    height: 10vh;
+    background-color: black;
+}
+.left{
+    height: 40vh;
+    background-color: blue;
+}
+.right{
+    height: 40vh;
+    background-color: crimson;
+}
+footer{
+    height: 10vh;
+    background-color: cyan;
+}
