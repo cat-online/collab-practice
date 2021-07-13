@@ -3,11 +3,11 @@ nav{
     background-color: black;
 }
 .left{
-    height: 40vh;
+    height: 60vh;
     background-color: blue;
 }
 .right{
-    height: 40vh;
+    height: 60vh;
     background-color: crimson;
 }
 footer{
